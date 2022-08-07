@@ -1,0 +1,11 @@
+﻿  学生成绩管理系统.cpp
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(62,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(67,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(151,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(293,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(298,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(384,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(532,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(537,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\Desktop\学生成绩管理系统\学生成绩管理系统\学生成绩管理系统.cpp(623,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  学生成绩管理系统.vcxproj -> C:\Users\Double\Desktop\学生成绩管理系统\Debug\学生成绩管理系统.exe
